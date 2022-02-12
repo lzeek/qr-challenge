@@ -1,0 +1,36 @@
+body{
+	background-color: #d5e1ef;
+	font-family: 'Outfit', sans-serif;
+	text-align: center;
+}
+.qr--container{
+	margin: 0 auto;
+	width: 280px;
+	box-shadow:10px 5px 60px grey;
+	padding: 20px;
+	padding-bottom: 50px;
+	border-radius: 20px;
+	margin-top: 10%;
+	
+}
+
+.qr--container img{
+	width: 280px;
+	height: 280px;
+	border-radius: 10px;
+}
+
+h1{
+	font-size:16pt;
+}
+
+p{
+	font-size: 11pt;
+	padding-right: 12px;
+	padding-left: 12px;
+}
+
+.attribution{
+	padding-top: 80px;
+	font-size: 8pt;
+}
