@@ -42,7 +42,7 @@ A challenge by Frondend mentor
 ## Author
 
 - Website - [Luzuko Bubu](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lzeek)
+- Frontend Mentor - [@lzeek](https://www.frontendmentor.io/profile/lzeek)
 
 
 ## Acknowledgments
