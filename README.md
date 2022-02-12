@@ -27,8 +27,8 @@ A challenge by Frondend mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/lzeek/qr-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/lzeek/qr-challenge)
+- Live Site URL: [Hosted on Github](https://lzeek.github.io/qr-challenge/)
 
 ### Built with
 
