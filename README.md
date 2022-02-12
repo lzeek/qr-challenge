@@ -37,11 +37,10 @@ A challenge by Frondend mentor
 
 ### Useful resources
 
-- [Devdocs](https://devdocs.io/) - This site helped me with box-shadow
+- [Devdocs](https://devdocs.io/) - Helped me look up some CSS properties I could not remember
 
 ## Author
 
-- Website - [Luzuko Bubu](https://www.your-site.com)
 - Frontend Mentor - [@lzeek](https://www.frontendmentor.io/profile/lzeek)
 
 
